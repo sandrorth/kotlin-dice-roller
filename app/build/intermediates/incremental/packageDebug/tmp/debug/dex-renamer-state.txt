@@ -1,0 +1,4 @@
+#Thu Mar 24 19:18:17 BRT 2022
+base.0=/home/sthome/AndroidStudioProjects/DiceRoller/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
